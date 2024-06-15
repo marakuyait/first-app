@@ -40,6 +40,9 @@ body {
   margin-top: 15px;
   border-radius: 5px;
 }
+.leftSide button:hover {
+  background-color: rgba(3, 184, 184, 0.947);
+}
 
 .rightSide {
   width: 50%;
